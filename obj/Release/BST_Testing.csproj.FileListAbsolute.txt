@@ -1,0 +1,10 @@
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\bin\Release\BST_Testing.exe.config
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\bin\Release\BST_Testing.exe
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\bin\Release\BST_Testing.pdb
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\bin\Release\ARBinarySearchTree.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\bin\Release\ARBinarySearchTree.pdb
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\obj\Release\BST_Testing.csprojAssemblyReference.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\obj\Release\BST_Testing.csproj.CoreCompileInputs.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\obj\Release\BST_Testing.csproj.CopyComplete
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\obj\Release\BST_Testing.exe
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\BST_Testing\obj\Release\BST_Testing.pdb
