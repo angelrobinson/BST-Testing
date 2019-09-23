@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST_Testing", "BST_Testing.csproj", "{E8032BA6-697E-4ED7-B2F9-906E262FBDAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARBinarySearchTree", "..\ARBinarySearchTree\ARBinarySearchTree.csproj", "{F0744E4D-13A6-4DA1-AC4F-66B6206664EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8032BA6-697E-4ED7-B2F9-906E262FBDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8032BA6-697E-4ED7-B2F9-906E262FBDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8032BA6-697E-4ED7-B2F9-906E262FBDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8032BA6-697E-4ED7-B2F9-906E262FBDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0744E4D-13A6-4DA1-AC4F-66B6206664EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0744E4D-13A6-4DA1-AC4F-66B6206664EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0744E4D-13A6-4DA1-AC4F-66B6206664EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0744E4D-13A6-4DA1-AC4F-66B6206664EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109848E4-E4E5-4338-885C-7528FB957D8B}
+	EndGlobalSection
+EndGlobal
